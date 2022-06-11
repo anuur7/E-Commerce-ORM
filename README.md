@@ -22,6 +22,20 @@ https://anuur7.github.io/E-Commerce-ORM/
 
 # Walk-through Video:
 
+## Start Up
+https://drive.google.com/file/d/1urx9L77t47LKLcigMmJfhnq2A-7rxsWy/view?usp=sharing
+
+## GET
+https://drive.google.com/file/d/1xz63ZIEjsFYdJ4crzaTLyGYYGAY8QdN7/view?usp=sharing
+
+## PUT
+https://drive.google.com/file/d/1U4LfXVTH9ZfJm2mLfsdfByG6tIUSDNfL/view?usp=sharing
+
+## POST
+https://drive.google.com/file/d/1XIAS8c9CReeL_8F035Mdbt4vz788vxv-/view?usp=sharing
+
+## DELETE
+https://drive.google.com/file/d/1svGeuEsvWdZkaVRVUomz6w8EPJBXXOdJ/view?usp=sharing
 
 
  
